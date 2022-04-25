@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
 
 Bu repo [Patika.dev](https://patika.dev) eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![görsel]()
 
 ## Patika.dev Hesabım
 [Yunus Akgün](https://app.patika.dev/codingyou)
